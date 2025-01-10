@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman">
   <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB">
-  <!-- Adicione mais tecnologias conforme necessário -->
+  <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="Amazon S3">
   <!-- Adicione mais tecnologias conforme necessário -->
 </p>
 
