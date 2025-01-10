@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center" style="color: cyan;">Olá, eu sou Everson 👋</h1>
-<p align="center" style="color: cyan;">Philosophy at the center of everything.</p>
+<p align="center" style="color: cyan;">Bem vindo ao meu perfil.</p>
 
 ## Sobre Mim
 <p align="center">
-  Full-stack dev a 4 anos , atualmente trabalhando na empresa Cielo S.A. 
+  Full-stack dev a 4 anos , atualmente trabalhando na empresa Cielo S.A.
 </p>
 
 
