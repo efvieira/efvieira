@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 <p align="center">
-  Full-stack dev.
+  Full-stack dev a 4 anos , atualmente trabalhando na empresa Cielo S.A. 
 </p>
 
 
@@ -46,17 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=efvieira&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=efvieira&repo=nome-do-repositorio&theme=radical" alt="Top Contributed Repo">
-</p>
-
-<!-- Rodapé Animado com Efeito Neon -->
-<p align="center">
-  <img src="https://giphy.com/gifs/gunship-dark-all-day-parzival-art3mis-7YCzIdUMR6qAfiooUa" alt="Footer">
-</p
