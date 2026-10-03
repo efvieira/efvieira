@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=220&section=header&text=Everson%20Vieira&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descSize=20&descAlignY=58&animation=fadeIn" alt="Everson Vieira" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=220&section=header&text=Everson%20Vieira&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%E2%80%A2%20Java%20%C2%B7%20Spring%20Boot&descSize=20&descAlignY=58&animation=fadeIn" alt="Everson Vieira" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/everson-felipe-dos-santos-vieira-17484b138/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:everson.lipe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=efvieira&label=visitas&color=0e7490&style=for-the-badge" alt="Visitas ao perfil"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=everson.lipe@gmail.com" title="everson.lipe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://hits.sh/github.com/efvieira.svg?style=for-the-badge&label=visitas&color=0e7490&labelColor=0d1117" alt="Visitas ao perfil"/>
 </p>
 
 ---
