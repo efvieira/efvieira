@@ -1,5 +1,7 @@
-name: Cobrinha de contribuições
+name: Imagens do perfil
 
+# Gera a cobrinha e os cards de estatísticas no próprio repositório (branch "output"),
+# sem depender de serviços públicos que podem sair do ar.
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -15,7 +17,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Gera os SVGs da cobrinha
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      - name: Cards de estatísticas e linguagens
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/stats.mjs "${{ github.repository_owner }}" dist
+
+      - name: Cobrinha de contribuições
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +37,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#22d3ee
 
       - name: Publica no branch output
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
