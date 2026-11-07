@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-label="Atividade no GitHub">
+  <style>
+    .title { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #22d3ee; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="169" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <text x="25" y="35" class="title">Atividade no GitHub</text>
+  <text x="25" y="70" class="label">Contribuições no último ano</text><text x="370" y="70" class="value" text-anchor="end">33</text>
+  <text x="25" y="94" class="label">Commits no último ano</text><text x="370" y="94" class="value" text-anchor="end">20</text>
+  <text x="25" y="118" class="label">Pull requests</text><text x="370" y="118" class="value" text-anchor="end">6</text>
+  <text x="25" y="142" class="label">Repositórios públicos</text><text x="370" y="142" class="value" text-anchor="end">7</text>
+</svg>
