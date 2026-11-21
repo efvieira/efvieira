@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="170" viewBox="0 0 400 170" role="img" aria-label="Linguagens mais usadas">
+  <style>
+    .title { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #22d3ee; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="169" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <text x="25" y="35" class="title">Linguagens mais usadas</text>
+  <clipPath id="r"><rect x="25" y="52" width="350" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#r)"><rect x="25.0" y="52" width="346.8" height="10" fill="#b07219"/><rect x="371.8" y="52" width="3.2" height="10" fill="#f1e05a"/></g>
+  <circle cx="30" cy="87" r="5" fill="#b07219"/><text x="41" y="92" class="label">Java <tspan class="value">99.1%</tspan></text>
+  <circle cx="210" cy="87" r="5" fill="#f1e05a"/><text x="221" y="92" class="label">JavaScript <tspan class="value">0.9%</tspan></text>
+</svg>
